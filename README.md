@@ -8,8 +8,10 @@ The goal of the project is to predict the interest rate of loan applications usi
 
 The python script and results are summarized in the following Jupyter notebooks:
 
-1. [Part 1](https://github.com/chao-ji/LoanInterest/blob/master/Raw%20data.ipynb)
+1. [Part 1: Look into Raw Data](https://github.com/chao-ji/LoanInterest/blob/master/Raw%20data.ipynb)
 
-2. [Part 2](https://github.com/chao-ji/LoanInterest/blob/master/Data%20Cleaning%20and%20Wrangling.ipynb)
+2. [Part 2: Data Cleaning and Wrangling](https://github.com/chao-ji/LoanInterest/blob/master/Data%20Cleaning%20and%20Wrangling.ipynb)
 
-3. [Part 3](https://github.com/chao-ji/LoanInterest/blob/master/Missing%20value%20imputation.ipynb)
+3. [Part 3: Missing Value Imputation](https://github.com/chao-ji/LoanInterest/blob/master/Missing%20value%20imputation.ipynb)
+
+4. [Part 4: Model Fitting and Evaluation](https://github.com/chao-ji/LoanInterest/blob/master/Model%20fitting%20and%20evaluation.ipynb)
